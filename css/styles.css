@@ -1,0 +1,119 @@
+/*
+    css reset - based on josh comeau's css reset
+    https://www.joshwcomeau.com/css/custom-css-reset/
+*/
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+*:not(dialog) {
+    margin: 0;
+}
+
+/* keyword animation */
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        interpolate-size: allow-keywords;
+    }
+}
+
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+img,
+picture,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+/* inherit fonts for form controls */
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
+
+/* text overflow handling */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    overflow-wrap: break-word;
+}
+
+p {
+    text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-wrap: balance;
+}
+
+/* design tokens: primitives -> semantics */
+
+:root {
+    /* primitives */
+    --color-cream-100: #faf8f5;
+    --color-cream-200: #f5f0e8;
+    --color-brown-800: #3d3a36;
+    --color-brown-900: #2a2825;
+    --color-accent: #8b7355;
+
+    /* semantics */
+    --color-bg: var(--color-cream-100);
+    --color-bg-card: var(--color-cream-200);
+    --color-text: var(--color-brown-900);
+    --color-text-muted: var(--color-brown-800);
+
+    /* spacing */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 4rem;
+
+    /* typography */
+    --font-body: Georgia, 'Times New Roman', serif;
+    --font-heading: Georgia, 'Times New Roman', serif;
+
+    /* effects */
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --shadow-soft: 0 2px 8px rgba(0, 0, 0, 0.08);
+    --transition-fast: 150ms ease;
+    --transition-normal: 250ms ease;
+}
+
+/* dark mode */
+[data-theme="dark"] {
+    --color-bg: var(--color-brown-900);
+    --color-bg-card: var(--color-brown-800);
+    --color-text: var(--color-cream-100);
+    --color-text-muted: var(--color-cream-200);
+}
+
+/* base styles */
+body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-body);
+}
+
+/* todo: components */

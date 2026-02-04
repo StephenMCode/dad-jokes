@@ -1,0 +1,29 @@
+# os files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# editor specific
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+.idea/
+
+# logs
+*.log
+npm-debug.log*
+
+# env vars
+.env
+.env.local
+.env.*.local
+
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
