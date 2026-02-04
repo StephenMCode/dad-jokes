@@ -239,6 +239,25 @@ body {
     box-shadow: 0 0 0 4px rgba(139, 115, 85, 0.2);
 }
 
+.joke-card__button:disabled {
+    cursor: not-allowed;
+}
+
+.joke-card__button--loading {
+    animation: breathe 2s ease-in-out infinite;
+}
+
+@keyframes breathe {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .joke-card__button--loading {
+        animation: none;
+    }
+}
+
 /* footer */
 .footer {
     padding: var(--spacing-md) var(--spacing-lg);

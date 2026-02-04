@@ -28,12 +28,22 @@ async function fetchJoke() {
 
 // event handlers
 async function handleFetchJoke() {
+    fetchButton.disabled = true;
+    fetchButton.classList.add('joke-card__button--loading');
+    fetchButton.textContent = 'Loading...';
+    jokeDisplay.setAttribute('aria-busy', 'true');
+
     try {
         const data = await fetchJoke();
         currentJoke = data;
         jokeDisplay.textContent = data.joke;
     } catch (error) {
         console.error('Failed to fetch joke:', error);
+    } finally {
+        fetchButton.disabled = false;
+        fetchButton.classList.remove('joke-card__button--loading');
+        fetchButton.textContent = 'Get Joke';
+        jokeDisplay.setAttribute('aria-busy', 'false');
     }
 }
 

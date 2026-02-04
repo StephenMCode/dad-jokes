@@ -6,19 +6,17 @@ A dad joke generator built with vanilla HTML, CSS, and JavaScript. No frameworks
 
 ## What's Working Now
 
-Just a skeleton page, no interactive elements or features implemented yet.
-
-- HTML structure
-- CSS custom properties for theming
-- ES Modules loading
+- Fetch random dad jokes from icanhazdadjoke.com
+- Loading state with breathing animation
+- Accessible (ARIA live regions, reduced motion support)
+- Cozy/warm visual design
 - Deploys to GitHub Pages
 
 ## What's Coming
 
 Core stuff:
-- Fetch jokes from icanhazdadjoke.com
-- Loading and error states
-- Local fallback if the API's down
+- Error handling with local fallback
+- Polished joke display transitions
 
 Persistence:
 - Save favorites to localStorage
