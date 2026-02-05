@@ -1,0 +1,504 @@
+{
+  "jokes": [
+    {
+      "id": "local-001",
+      "joke": "Why don't eggs tell jokes? They'd crack each other up.",
+      "status": 200
+    },
+    {
+      "id": "local-002",
+      "joke": "I'm reading a book about anti-gravity. It's impossible to put down.",
+      "status": 200
+    },
+    {
+      "id": "local-003",
+      "joke": "What do you call a fake noodle? An impasta.",
+      "status": 200
+    },
+    {
+      "id": "local-004",
+      "joke": "Why did the scarecrow win an award? He was outstanding in his field.",
+      "status": 200
+    },
+    {
+      "id": "local-005",
+      "joke": "I used to hate facial hair, but then it grew on me.",
+      "status": 200
+    },
+    {
+      "id": "local-006",
+      "joke": "What do you call a bear with no teeth? A gummy bear.",
+      "status": 200
+    },
+    {
+      "id": "local-007",
+      "joke": "I only know 25 letters of the alphabet. I don't know y.",
+      "status": 200
+    },
+    {
+      "id": "local-008",
+      "joke": "What's orange and sounds like a parrot? A carrot.",
+      "status": 200
+    },
+    {
+      "id": "local-009",
+      "joke": "Why do bees have sticky hair? Because they use honeycombs.",
+      "status": 200
+    },
+    {
+      "id": "local-010",
+      "joke": "I'm on a seafood diet. I see food and I eat it.",
+      "status": 200
+    },
+    {
+      "id": "local-011",
+      "joke": "What do you call a dinosaur that crashes their car? Tyrannosaurus Wrecks.",
+      "status": 200
+    },
+    {
+      "id": "local-012",
+      "joke": "Why don't scientists trust atoms? Because they make up everything.",
+      "status": 200
+    },
+    {
+      "id": "local-013",
+      "joke": "What did the ocean say to the beach? Nothing, it just waved.",
+      "status": 200
+    },
+    {
+      "id": "local-014",
+      "joke": "I would tell you a construction joke, but I'm still working on it.",
+      "status": 200
+    },
+    {
+      "id": "local-015",
+      "joke": "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one.",
+      "status": 200
+    },
+    {
+      "id": "local-016",
+      "joke": "What do you call cheese that isn't yours? Nacho cheese.",
+      "status": 200
+    },
+    {
+      "id": "local-017",
+      "joke": "I got hit in the head with a can of soda. Good thing it was a soft drink.",
+      "status": 200
+    },
+    {
+      "id": "local-018",
+      "joke": "Why did the bicycle fall over? Because it was two-tired.",
+      "status": 200
+    },
+    {
+      "id": "local-019",
+      "joke": "What do you call a fish without eyes? A fsh.",
+      "status": 200
+    },
+    {
+      "id": "local-020",
+      "joke": "I used to play piano by ear, but now I use my hands.",
+      "status": 200
+    },
+    {
+      "id": "local-021",
+      "joke": "What do you call a sleeping dinosaur? A dino-snore.",
+      "status": 200
+    },
+    {
+      "id": "local-022",
+      "joke": "Why can't you hear a pterodactyl going to the bathroom? Because the p is silent.",
+      "status": 200
+    },
+    {
+      "id": "local-023",
+      "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+      "status": 200
+    },
+    {
+      "id": "local-024",
+      "joke": "What do you call a lazy kangaroo? A pouch potato.",
+      "status": 200
+    },
+    {
+      "id": "local-025",
+      "joke": "Why did the coffee file a police report? It got mugged.",
+      "status": 200
+    },
+    {
+      "id": "local-026",
+      "joke": "What do you call a can opener that doesn't work? A can't opener.",
+      "status": 200
+    },
+    {
+      "id": "local-027",
+      "joke": "I'm afraid for the calendar. Its days are numbered.",
+      "status": 200
+    },
+    {
+      "id": "local-028",
+      "joke": "What do you call a belt made of watches? A waist of time.",
+      "status": 200
+    },
+    {
+      "id": "local-029",
+      "joke": "Why don't oysters share? Because they're shellfish.",
+      "status": 200
+    },
+    {
+      "id": "local-030",
+      "joke": "What did the buffalo say when his son left for college? Bison.",
+      "status": 200
+    },
+    {
+      "id": "local-031",
+      "joke": "I tried to catch fog yesterday. I mist.",
+      "status": 200
+    },
+    {
+      "id": "local-032",
+      "joke": "What do you call a pig that does karate? A pork chop.",
+      "status": 200
+    },
+    {
+      "id": "local-033",
+      "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one.",
+      "status": 200
+    },
+    {
+      "id": "local-034",
+      "joke": "What do you call a cow with no legs? Ground beef.",
+      "status": 200
+    },
+    {
+      "id": "local-035",
+      "joke": "I made a pencil with two erasers. It was pointless.",
+      "status": 200
+    },
+    {
+      "id": "local-036",
+      "joke": "What do you call a dog that does magic tricks? A labracadabrador.",
+      "status": 200
+    },
+    {
+      "id": "local-037",
+      "joke": "Why did the math book look so sad? Because it had too many problems.",
+      "status": 200
+    },
+    {
+      "id": "local-038",
+      "joke": "I used to be a banker, but I lost interest.",
+      "status": 200
+    },
+    {
+      "id": "local-039",
+      "joke": "What do you call a parade of rabbits hopping backwards? A receding hare-line.",
+      "status": 200
+    },
+    {
+      "id": "local-040",
+      "joke": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels.",
+      "status": 200
+    },
+    {
+      "id": "local-041",
+      "joke": "What do you call a factory that makes okay products? A satisfactory.",
+      "status": 200
+    },
+    {
+      "id": "local-042",
+      "joke": "I stayed up all night wondering where the sun went. Then it dawned on me.",
+      "status": 200
+    },
+    {
+      "id": "local-043",
+      "joke": "What do you call a snowman with a six-pack? An abdominal snowman.",
+      "status": 200
+    },
+    {
+      "id": "local-044",
+      "joke": "Why don't skeletons fight each other? They don't have the guts.",
+      "status": 200
+    },
+    {
+      "id": "local-045",
+      "joke": "What do you call a fish that wears a bowtie? Sofishticated.",
+      "status": 200
+    },
+    {
+      "id": "local-046",
+      "joke": "I asked my dog what's two minus two. He said nothing.",
+      "status": 200
+    },
+    {
+      "id": "local-047",
+      "joke": "Why did the invisible man turn down the job offer? He couldn't see himself doing it.",
+      "status": 200
+    },
+    {
+      "id": "local-048",
+      "joke": "What do you call a boomerang that doesn't come back? A stick.",
+      "status": 200
+    },
+    {
+      "id": "local-049",
+      "joke": "I'm reading a book about teleportation. It's bound to get me somewhere.",
+      "status": 200
+    },
+    {
+      "id": "local-050",
+      "joke": "What do you call an alligator in a vest? An investigator.",
+      "status": 200
+    },
+    {
+      "id": "local-051",
+      "joke": "Why did the tomato turn red? Because it saw the salad dressing.",
+      "status": 200
+    },
+    {
+      "id": "local-052",
+      "joke": "I told my doctor I broke my arm in two places. He told me to stop going to those places.",
+      "status": 200
+    },
+    {
+      "id": "local-053",
+      "joke": "What do you call a deer with no eyes? No idea.",
+      "status": 200
+    },
+    {
+      "id": "local-054",
+      "joke": "Why do chicken coops only have two doors? Because if they had four, they'd be chicken sedans.",
+      "status": 200
+    },
+    {
+      "id": "local-055",
+      "joke": "I had a joke about paper, but it was tearable.",
+      "status": 200
+    },
+    {
+      "id": "local-056",
+      "joke": "What do you call a knight who is afraid to fight? Sir Render.",
+      "status": 200
+    },
+    {
+      "id": "local-057",
+      "joke": "Why did the stadium get hot? All the fans left.",
+      "status": 200
+    },
+    {
+      "id": "local-058",
+      "joke": "What do you call a train carrying bubblegum? A chew-chew train.",
+      "status": 200
+    },
+    {
+      "id": "local-059",
+      "joke": "I'm terrified of elevators, so I'm going to start taking steps to avoid them.",
+      "status": 200
+    },
+    {
+      "id": "local-060",
+      "joke": "What do you call a group of musical whales? An orca-stra.",
+      "status": 200
+    },
+    {
+      "id": "local-061",
+      "joke": "Why do cows wear bells? Because their horns don't work.",
+      "status": 200
+    },
+    {
+      "id": "local-062",
+      "joke": "I tried to write a chemistry joke, but I got no reaction.",
+      "status": 200
+    },
+    {
+      "id": "local-063",
+      "joke": "What do you call a shoe made of a banana? A slipper.",
+      "status": 200
+    },
+    {
+      "id": "local-064",
+      "joke": "Why don't some couples go to the gym? Because some relationships don't work out.",
+      "status": 200
+    },
+    {
+      "id": "local-065",
+      "joke": "What do you call a duck that steals? A robber ducky.",
+      "status": 200
+    },
+    {
+      "id": "local-066",
+      "joke": "I used to run a dating service for chickens. But I was struggling to make hens meet.",
+      "status": 200
+    },
+    {
+      "id": "local-067",
+      "joke": "What do you call a nervous javelin thrower? Shakespeare.",
+      "status": 200
+    },
+    {
+      "id": "local-068",
+      "joke": "Why did the cookie go to the hospital? Because it felt crummy.",
+      "status": 200
+    },
+    {
+      "id": "local-069",
+      "joke": "I have a joke about time travel, but you didn't like it.",
+      "status": 200
+    },
+    {
+      "id": "local-070",
+      "joke": "What do you call a fake stone in Ireland? A sham rock.",
+      "status": 200
+    },
+    {
+      "id": "local-071",
+      "joke": "Why did the gym close down? It just didn't work out.",
+      "status": 200
+    },
+    {
+      "id": "local-072",
+      "joke": "What do you call a bee that can't make up its mind? A maybe.",
+      "status": 200
+    },
+    {
+      "id": "local-073",
+      "joke": "I gave all my dead batteries away today. Free of charge.",
+      "status": 200
+    },
+    {
+      "id": "local-074",
+      "joke": "What do you call a dinosaur that's a noisy sleeper? A Bronto-snorus.",
+      "status": 200
+    },
+    {
+      "id": "local-075",
+      "joke": "Why did the man fall into the well? Because he couldn't see that well.",
+      "status": 200
+    },
+    {
+      "id": "local-076",
+      "joke": "What do you call an elephant that doesn't matter? An irrelephant.",
+      "status": 200
+    },
+    {
+      "id": "local-077",
+      "joke": "I'm friends with all the letters of the alphabet. I don't know why, but I really like u.",
+      "status": 200
+    },
+    {
+      "id": "local-078",
+      "joke": "What do you call a chicken looking at a lettuce? Chicken sees a salad.",
+      "status": 200
+    },
+    {
+      "id": "local-079",
+      "joke": "Why do melons have weddings? Because they cantaloupe.",
+      "status": 200
+    },
+    {
+      "id": "local-080",
+      "joke": "I ordered a chicken and an egg from Amazon. I'll let you know.",
+      "status": 200
+    },
+    {
+      "id": "local-081",
+      "joke": "What do you call a dinosaur that knows a lot of words? A thesaurus.",
+      "status": 200
+    },
+    {
+      "id": "local-082",
+      "joke": "Why did the picture go to jail? Because it was framed.",
+      "status": 200
+    },
+    {
+      "id": "local-083",
+      "joke": "I have a fear of speed bumps, but I'm slowly getting over it.",
+      "status": 200
+    },
+    {
+      "id": "local-084",
+      "joke": "What do you call a sad cup of coffee? A depresso.",
+      "status": 200
+    },
+    {
+      "id": "local-085",
+      "joke": "Why did the banana go to the doctor? It wasn't peeling well.",
+      "status": 200
+    },
+    {
+      "id": "local-086",
+      "joke": "What do you call a bear caught in the rain? A drizzly bear.",
+      "status": 200
+    },
+    {
+      "id": "local-087",
+      "joke": "I tried to make a belt out of watches. It was a waist of time.",
+      "status": 200
+    },
+    {
+      "id": "local-088",
+      "joke": "What do you call a woman who sets fire to all her bills? Bernadette.",
+      "status": 200
+    },
+    {
+      "id": "local-089",
+      "joke": "Why can't you trust stairs? They're always up to something.",
+      "status": 200
+    },
+    {
+      "id": "local-090",
+      "joke": "What do you call a magic dog? A Labracadabrador.",
+      "status": 200
+    },
+    {
+      "id": "local-091",
+      "joke": "I used to be addicted to soap, but I'm clean now.",
+      "status": 200
+    },
+    {
+      "id": "local-092",
+      "joke": "What do you call a hippie's wife? Mississippi.",
+      "status": 200
+    },
+    {
+      "id": "local-093",
+      "joke": "Why couldn't the bicycle stand on its own? Because it was two-tired.",
+      "status": 200
+    },
+    {
+      "id": "local-094",
+      "joke": "What do you call a caveman who wanders around? A meanderthal.",
+      "status": 200
+    },
+    {
+      "id": "local-095",
+      "joke": "I'm no good at math, but I know my limits.",
+      "status": 200
+    },
+    {
+      "id": "local-096",
+      "joke": "What do you call a row of rabbits walking backwards? A receding hare line.",
+      "status": 200
+    },
+    {
+      "id": "local-097",
+      "joke": "Why did the scarecrow become a successful motivational speaker? He was outstanding in his field.",
+      "status": 200
+    },
+    {
+      "id": "local-098",
+      "joke": "What do you call a cat that gets anything it wants? Purrsuasive.",
+      "status": 200
+    },
+    {
+      "id": "local-099",
+      "joke": "I don't trust people who do acupuncture. They're back stabbers.",
+      "status": 200
+    },
+    {
+      "id": "local-100",
+      "joke": "What do you call a snake that's exactly 3.14 meters long? A pi-thon.",
+      "status": 200
+    }
+  ]
+}
