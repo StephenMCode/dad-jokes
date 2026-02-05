@@ -10,13 +10,12 @@ A dad joke generator built with vanilla HTML, CSS, and JavaScript. No frameworks
 - Offline support with 100 local fallback jokes
 - Loading state with breathing animation
 - Accessible (ARIA live regions, reduced motion support)
+- Smooth joke text transitions (fade out, swap, fade in)
+- Fluid typography that scales with viewport
 - Cozy/warm visual design
 - Deploys to GitHub Pages
 
 ## What's Coming
-
-Core stuff:
-- Polished joke display transitions
 
 Persistence:
 - Save favorites to localStorage

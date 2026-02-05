@@ -96,6 +96,7 @@ h6 {
     --font-size-base: 1rem;
     --font-size-lg: 1.25rem;
     --font-size-2xl: 1.75rem;
+    --font-size-content: clamp(1.125rem, 0.9rem + 1vw, 1.5rem);
 
     /* effects */
     --radius-sm: 4px;
@@ -104,6 +105,11 @@ h6 {
     --shadow-warm: 0 2px 4px rgba(61, 58, 54, 0.05), 0 4px 12px rgba(61, 58, 54, 0.08);
     --transition-fast: 150ms ease;
     --transition-normal: 250ms ease;
+    --content-transition-duration: 200ms;
+    --content-transition-easing: ease;
+
+    /* layout */
+    --content-min-height: 8rem;
 }
 
 /* dark mode */
@@ -196,8 +202,14 @@ body {
 }
 
 .joke-card__text {
-    font-size: var(--font-size-lg);
+    font-size: var(--font-size-content);
+    min-height: var(--content-min-height);
     margin-bottom: var(--spacing-lg);
+    transition: opacity var(--content-transition-duration) var(--content-transition-easing);
+}
+
+.joke-card__text--fading {
+    opacity: 0;
 }
 
 .joke-card__button {
@@ -255,6 +267,10 @@ body {
 @media (prefers-reduced-motion: reduce) {
     .joke-card__button--loading {
         animation: none;
+    }
+
+    .joke-card__text--fading {
+        transition: none;
     }
 }
 
